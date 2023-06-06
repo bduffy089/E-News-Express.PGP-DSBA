@@ -1,5 +1,5 @@
-# E-News-Express.PGD-DSBA
-E-News Express Project for PGD-DSBA
+# E-News-Express.PGP-DSBA
+E-News Express Project for PGP-DSBA
 
 ## Problem Definition
 An online news portal aims to expand its business by acquiring new subscribers. Every visitor to the website takes certain actions based on their interest. The company plans to analyze these interests and wants to determine whether a new feature will be effective or not. Companies often analyze users' responses to two variants of a product to decide which of the two variants is more effective. This experimental technique is known as a/b testing that is used to determine whether a new feature attracts users based on a chosen metric.
